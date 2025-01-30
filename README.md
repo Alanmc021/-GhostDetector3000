@@ -24,6 +24,18 @@
 3. Run all the cells.  
 4. Look at the camera and witness the magic happen! 🎩✨  
 
+## 📷 Example Output
+
+Here’s an example of how the program works:  
+
+![GhostDetector3000 Example](image.png)  
+
 ## 🤡 A Prank?
 
-If you’ve read this far and are wondering, "Does this actually detect ghosts?" Well… there’s only one way to find out. Run the code and see for yourself! 👀
+If you’ve read this far and are wondering, "Does this actually detect ghosts?" Well… there’s only one way to find out. Run the code and see for yourself! 👀  
+
+⚠️ **Warning**: If a "ghost" appears in the image and you're alone… run. 🏃💨  
+
+---
+
+Created purely for fun. No AI was harmed in the making of this project. 😆👻  
