@@ -28,7 +28,7 @@
 
 Here’s an example of how the program works:  
 
-![GhostDetector3000 Example](image.png)  
+![GhostDetector3000 Example](PHOTO-2025-01-29-14-24-57.jpg)  
 
 ## 🤡 A Prank?
 
